@@ -1,2 +1,2 @@
 # CPSC223N
-Used as a reference for my C# programming class
+An assortment of games written in C# for a Visual C# Programming class
